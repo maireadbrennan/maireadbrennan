@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🗺️ GIS & Data Specialist with 5+ years of experience in geographic information systems and automation. Currently serving as a Climate Risk Specialist at Arcadis, developing automated Python workflows for climate data processing and risk assessment. Proficient in the Esri suite (ArcGIS Pro, Online, Experience Builder) and technical development using Python 3.x, leveraging ArcPy, Pandas, Polars, and ArcGIS API for data analysis and automation.
+🗺️ Hi, I'm Mairéad 👋
 
- Thanks for stopping by!
+Data specialist with a background in environmental science and a self-taught path into data engineering. I build ETL pipelines, automated workflows, and data systems — mostly in Python — with a focus on making complex data accessible to the people who need to act on it.
+
+Currently a Climate Risk Specialist at Arcadis, where I helped build Climate Risk Nexus, a climate risk quantification platform processing large-scale climate and infrastructure datasets.
+
+Tools I work with: Python (Pandas, Polars, GeoPandas, ArcPy), SQL, ArcGIS Pro, ArcGIS Online, GitHub, Microsoft Fabric, Jenkins
