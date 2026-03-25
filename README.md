@@ -21,6 +21,6 @@ Data specialist with a background in environmental science and a self-taught pat
 
 Currently a Climate Risk Specialist at Arcadis, where I helped build Climate Risk Nexus, a climate risk quantification platform processing large-scale climate and infrastructure datasets.
 
-Tools I work with: Python (Pandas, Polars, GeoPandas, ArcPy), SQL, ArcGIS Pro, ArcGIS Online, GitHub, Microsoft Fabric, Jenkins
+Some tools I work with: Python (Pandas, Polars, GeoPandas, ArcPy), SQL, ArcGIS Pro, ArcGIS Online, & GitHub
 
 Thanks for stopping by!
