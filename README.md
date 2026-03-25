@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 🗺️ Hi, I'm Mairéad 👋
 
-Data specialist with a background in environmental science and a self-taught path into data engineering. I build ETL pipelines, automated workflows, and data systems — mostly in Python — with a focus on making complex data accessible to the people who need to act on it.
+Data specialist with a background in environmental science and a self-taught path into data engineering. I build ETL pipelines, automated workflows, and data systems (mostly in Python) with a focus on making complex data accessible to the people who need to act on it.
 
 Currently a Climate Risk Specialist at Arcadis, where I helped build Climate Risk Nexus, a climate risk quantification platform processing large-scale climate and infrastructure datasets.
 
 Tools I work with: Python (Pandas, Polars, GeoPandas, ArcPy), SQL, ArcGIS Pro, ArcGIS Online, GitHub, Microsoft Fabric, Jenkins
+
+Thanks for stopping by!
